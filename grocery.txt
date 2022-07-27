@@ -7,3 +7,9 @@ Candy
 Chips
 Cookies
 Icecream
+Yoghurt
+Sugar
+Oil
+Onions
+Potatoes
+Chillies
