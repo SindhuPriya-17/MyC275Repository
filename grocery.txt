@@ -4,3 +4,6 @@ Milk
 Apples
 Cereal
 Candy
+Chips
+Cookies
+Icecream
